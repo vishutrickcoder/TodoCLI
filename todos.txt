@@ -1,3 +1,5 @@
 Hello Bhai
 Aur kya maje
 Vi IS a Great
+Master Python!
+Hello World
